@@ -1,0 +1,123 @@
+{
+  "defaultSeo": {
+    "title": "Kelvin Sánchez | Front-end developer",
+    "description": "Kelvin Sánchez is a front-end developer, experienced in creating beautiful and functional websites and web applications.",
+    "url": "https://www.kelvinsanchez15.com/",
+    "previewImage": "https://user-images.githubusercontent.com/4708484/93688063-050a8980-fa91-11ea-89ca-3530a9038393.png"
+  },
+  "heroData": {
+    "greetings": "HELLO, ",
+    "introduction": "I'm Kelvin Sánchez",
+    "role": "Front-end Developer",
+    "paragraph": "Passionate about coding, and making my client ideas come true.",
+    "button1": "Check my work",
+    "button2": "Contact me"
+  },
+  "aboutData": {
+    "aboutTitle": "About me",
+    "aboutItems": [
+      "I'm a front-end developer based in Spring, Texas.",
+      "I like to design and build beautiful and functional websites and web applications, taking special care to produce clear and understandable code.",
+      "I love teamwork and good communication, always open to feedback and willing to learn new things.",
+      "In my free time I like to play the guitar, read a good book or play videogames."
+    ],
+    "resumeTitle": "Resumé",
+    "resumeParagraph": "You can check my resumé in the link below.",
+    "resumeButton": "Resumé",
+    "resumeLink": "/resume/resume-en.pdf",
+    "skillsTitle": "Skills"
+  },
+  "portfolioData": {
+    "portfolioTitle": "Portfolio",
+    "projects": [
+      {
+        "name": "alacartadigital",
+        "projectUrl": "https://www.alacartadigital.es/",
+        "repoUrl": "https://github.com/alacartadigital-team",
+        "imgPath": "projectMedia/alacartadigital.png",
+        "imgAlt": "alacartadigital site mocked device preview",
+        "summary": "Online restaurant menu platform with QR code integration.",
+        "keyFeatures": [
+          "User-friendly dashboard",
+          "Live preview",
+          "Brand customization",
+          "Paid subscriptions"
+        ],
+        "technologies": ["React", "NextJS", "Firebase", "Material-UI", "Stripe"]
+      },
+      {
+        "name": "Issueless",
+        "projectUrl": "https://issueless.vercel.app",
+        "repoUrl": "https://github.com/kelvinsanchez15/issueless",
+        "imgPath": "projectMedia/issueless.png",
+        "imgAlt": "Issueless preview",
+        "summary": "JAMStack Issue Tracker project inspired on GitHub issues.",
+        "keyFeatures": [
+          "Hybrid static & server rendering",
+          "OAuth sign-in services",
+          "Markdown support",
+          "Custom MUI theme"
+        ],
+        "technologies": [
+          "React",
+          "NextJS",
+          "PostgreSQL",
+          "Prisma",
+          "Material-UI"
+        ]
+      },
+      {
+        "name": "Easybank",
+        "projectUrl": "https://easybank-web.vercel.app/",
+        "repoUrl": "https://github.com/kelvinsanchez15/easybank-landing-page",
+        "imgPath": "projectMedia/easybank.png",
+        "imgAlt": "Easybank website preview",
+        "summary": "Fully responsive SAAS product landing page designed with Tailwind CSS.",
+        "keyFeatures": [
+          "Pixel perfect design",
+          "Absolute positioning",
+          "Custom classes"
+        ],
+        "technologies": ["Tailwind", "TypeScript", "React", "NextJS"]
+      },
+      {
+        "name": "BombaiMTY",
+        "projectUrl": "https://bombai-mty-menu.vercel.app/",
+        "repoUrl": "https://github.com/kelvinsanchez15/bombai-menu",
+        "imgPath": "projectMedia/bombai-mty.png",
+        "imgAlt": "BombaiMTY website preview",
+        "summary": "Fast food sales portal with WhatsApp checkout.",
+        "keyFeatures": [
+          "Product filter",
+          "Shopping cart",
+          "Cover photo",
+          "Google Sheets integration"
+        ],
+        "technologies": ["Chakra UI", "TypeScript", "React", "NextJS"]
+      }
+    ]
+  },
+  "blogData": {
+    "featuredArticle": "Featured Article",
+    "mostRecent": "Most Recent",
+    "button": "More Articles"
+  },
+  "contactData": {
+    "title": "Contact",
+    "p1": "If you are interested in hiring me for your project please use the form below to get in touch. Want to know how I work and what I can offer? Check out my ",
+    "p2": "portfolio",
+    "p3": " and ",
+    "p4": "resumé",
+    "resumeLink": "/resume/resume-en.pdf",
+    "subtitle": "You can also find me on the following channels",
+    "formTitle": "Get in touch",
+    "firstNameLabel": "First Name",
+    "lastNameLabel": "Last Name",
+    "emailLabel": "Email",
+    "messageLabel": "Message",
+    "placeholder": "Feel free to include any details.",
+    "submitButton": "send",
+    "requiredErrorMessage": "Required",
+    "invalidEmailErrorMessage": "Invalid email format"
+  }
+}

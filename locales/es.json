@@ -1,0 +1,123 @@
+{
+  "defaultSeo": {
+    "title": "Kelvin Sánchez | Desarrollador front-end",
+    "description": "Kelvin Sánchez es un desarrollador front-end, con experiencia en la creación de sitios y aplicaciones web hermosas y funcionales.",
+    "url": "https://www.kelvinsanchez15.com/",
+    "previewImage": "https://user-images.githubusercontent.com/4708484/93688063-050a8980-fa91-11ea-89ca-3530a9038393.png"
+  },
+  "heroData": {
+    "greetings": "HOLA, ",
+    "introduction": "soy Kelvin Sánchez",
+    "role": "Desarrollador Front-end",
+    "paragraph": "Me apasiona programar, y hacer las ideas de mis clientes realidad.",
+    "button1": "Revisa mis proyectos",
+    "button2": "Contáctame"
+  },
+  "aboutData": {
+    "aboutTitle": "Acerca de mi",
+    "aboutItems": [
+      "Soy un desarrollador front-end residenciado en Spring, Texas.",
+      "Me gusta diseñar y construir aplicaciones web hermosas y funcionales, poniendo especial cuidado en producir un código limpio y comprensible.",
+      "Me encanta trabajar en equipo y comunicar mis ideas, permaneciendo abierto a recibir comentarios y dispuesto a adquirir nuevos conocimientos.",
+      "En mi tiempo libre suelo tocar la guitarra, leer un buen libro o jugar videojuegos."
+    ],
+    "resumeTitle": "Curriculum",
+    "resumeParagraph": "Puedes revisar mi curriculum en el siguiente enlace.",
+    "resumeButton": "Curriculum",
+    "resumeLink": "/resume/resume-es.pdf",
+    "skillsTitle": "Habilidades"
+  },
+  "portfolioData": {
+    "portfolioTitle": "Portafolio",
+    "projects": [
+      {
+        "name": "alacartadigital",
+        "projectUrl": "https://www.alacartadigital.es/",
+        "repoUrl": "https://github.com/alacartadigital-team",
+        "imgPath": "projectMedia/alacartadigital.png",
+        "imgAlt": "Vista previa del sitio alacartadigital en varios dispositivos",
+        "summary": "Plataforma online para menús de restaurantes con integracion QR.",
+        "keyFeatures": [
+          "Dashboard amigable para el usuario",
+          "Vista previa en vivo",
+          "Personalización de marca",
+          "Suscripciones de pago"
+        ],
+        "technologies": ["React", "NextJS", "MongoDB", "Material-UI", "SWR"]
+      },
+      {
+        "name": "Issueless",
+        "projectUrl": "https://issueless.vercel.app",
+        "repoUrl": "https://github.com/kelvinsanchez15/issueless",
+        "imgPath": "projectMedia/issueless.png",
+        "imgAlt": "Vista previa de Issueless",
+        "summary": "Rastreador de problemas (Issue Tracker) inspirado en Github Issues.",
+        "keyFeatures": [
+          "Renderizado híbrido de forma estática (SSG) y en el servidor (SSR)",
+          "Servicios de registro múltiple con OAuth",
+          "Soporte de Markdown",
+          "Tema MUI personalizado"
+        ],
+        "technologies": [
+          "React",
+          "NextJS",
+          "PostgreSQL",
+          "Prisma",
+          "Material-UI"
+        ]
+      },
+      {
+        "name": "Easybank",
+        "projectUrl": "https://easybank-web.vercel.app/",
+        "repoUrl": "https://github.com/kelvinsanchez15/easybank-landing-page",
+        "imgPath": "projectMedia/easybank.png",
+        "imgAlt": "Vista previa del sitio Easybank",
+        "summary": "Página de producto SAAS completamente responsiva diseñada con Tailwind CSS.",
+        "keyFeatures": [
+          "Diseño pixel perfect",
+          "Posicionamiento absoluto",
+          "Clases personalizadas"
+        ],
+        "technologies": ["Tailwind", "TypeScript", "React", "NextJS"]
+      },
+      {
+        "name": "BombaiMTY",
+        "projectUrl": "https://bombai-mty-menu.vercel.app/",
+        "repoUrl": "https://github.com/kelvinsanchez15/bombai-menu",
+        "imgPath": "projectMedia/bombai-mty.png",
+        "imgAlt": "Vista previa del sitio BombaiMTY",
+        "summary": "Portal de venta de comida rápida con pagos por WhatsApp.",
+        "keyFeatures": [
+          "Filtro de productos",
+          "Carrito de compras",
+          "Foto de portada",
+          "Integración con Google Sheets"
+        ],
+        "technologies": ["Chakra UI", "TypeScript", "React", "NextJS"]
+      }
+    ]
+  },
+  "blogData": {
+    "featuredArticle": "Artículo Destacado",
+    "mostRecent": "Más recientes",
+    "button": "Más Artículos"
+  },
+  "contactData": {
+    "title": "Contacto",
+    "p1": "Si estas interesado en contratarme para tu proyecto puedes usar la forma de abajo para ponerte en contacto. ¿Quieres saber como trabajo y que puedo ofrecer? Revisa mi ",
+    "p2": "portafolio",
+    "p3": " y ",
+    "p4": "curriculum",
+    "resumeLink": "/resume/resume-es.pdf",
+    "subtitle": "Tambien puedes encontrarme a traves de los siguientes canales",
+    "formTitle": "Llena el formulario",
+    "firstNameLabel": "Nombre",
+    "lastNameLabel": "Apellido",
+    "emailLabel": "Correo Electrónico",
+    "messageLabel": "Mensaje",
+    "placeholder": "Puedes incluir cualquier detalle adicional que desees.",
+    "submitButton": "enviar",
+    "requiredErrorMessage": "Requerido",
+    "invalidEmailErrorMessage": "Formato de correo inválido"
+  }
+}

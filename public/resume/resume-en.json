@@ -1,0 +1,145 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "skills": "Skills",
+    "projects": "Projects",
+    "work": "Work Experience"
+  },
+  "basics": {
+    "email": "kelvinsanchez15@gmail.com",
+    "phone": "",
+    "name": "Kelvin Sánchez",
+    "location": {
+      "address": "Spring, Texas"
+    },
+    "website": "www.kelvinsanchez15.com"
+  },
+  "work": [
+    {
+      "company": "Research Improving People's Lives",
+      "position": "Senior Front-end Developer",
+      "location": "Spring, Texas",
+      "startDate": "Feb 2023",
+      "endDate": "Present",
+      "highlights": [
+        "Integrated Rec Engine API V2 to improve page load speed and performance",
+        "Contributed to developing the Wisconsin Career Accelerator",
+        "Created documentation on frontend best practices and standardization for faster onboarding and improved development efficiency"
+      ]
+    },
+    {
+      "company": "Xepelin",
+      "position": "Front-end Developer",
+      "location": "Spring, Texas",
+      "startDate": "Oct 2021",
+      "endDate": "Feb 2023",
+      "highlights": [
+        "Built a new onboarding flow, improving self-enrolled users by 33%",
+        "Developed high business impact components, such as the Credit Line widget and a scalable Navbar",
+        "Pioneered the implementation of Typescript and Unit testing, improving overall application trust"
+      ]
+    },
+    {
+      "company": "alacartadigital",
+      "position": "Full Stack Developer",
+      "location": "Spring, Texas",
+      "startDate": "Apr 2021",
+      "endDate": "Sep 2022",
+      "highlights": [
+        "Implemented features such as yearly subscriptions and multiple restaurants per user, increasing company revenue by 40%",
+        "Optimized Lighthouse metrics by 98, achieving a smoother user experience and significant SEO improvements",
+        "Responsible for maintaining and deploying the platform using Next.js, Redux, and Firebase as the primary technology stack"
+      ]
+    },
+    {
+      "position": "Front-end Developer",
+      "startDate": "Ene 2019",
+      "endDate": "Dec 2020",
+      "highlights": [
+        "In charge of improving the company website and maintaining the design system",
+        "Optimized the app for maximum speed and scalability",
+        "Created features to enhance the user experience"
+      ],
+      "company": "PETUCA",
+      "location": "Ciudad Bolívar, Venezuela"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Redux"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Node.js", "Express.js", "Cloud Functions"],
+      "name": "Backend"
+    },
+    {
+      "keywords": ["PostgreSQL", "MongoDB", "Firebase"],
+      "name": "Databases"
+    },
+    {
+      "keywords": ["Tailwind CSS", "Material UI", "Bootstrap"],
+      "name": "CSS frameworks"
+    },
+    {
+      "keywords": ["Jest", "Cypress"],
+      "name": "Testing"
+    },
+    {
+      "keywords": ["Git", "Figma", "Postman"],
+      "name": "Other"
+    }
+  ],
+  "projects": [
+    {
+      "description": "Online restaurant menu platform with QR code integration.",
+      "url": "https://issueless.vercel.app/",
+      "keywords": ["React", "Next.js", "Material UI", "Firebase", "Stripe"],
+      "name": "alacartadigital"
+    },
+    {
+      "description": "JAMStack Issue Tracker project inspired on GitHub issues.",
+      "url": "https://issueless.vercel.app/",
+      "keywords": ["React", "Next.js", "PostgreSQL", "Prisma", "Material UI"],
+      "name": "Issueless"
+    },
+    {
+      "keywords": ["Tailwind CSS", "TypeScript", "React", "Next.js"],
+      "name": "Easybank",
+      "description": "Fully responsive SAAS product landing page designed with Tailwind CSS.",
+      "url": "https://easybank-web.vercel.app/"
+    },
+    {
+      "keywords": ["React", "Next.js", "MongoDB", "Material UI", "SWR"],
+      "name": "A-Note",
+      "description": "A simple, fast and intuitive note-taking app built with NextJS JAMStack solution.",
+      "url": "https://a-note.vercel.app/"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "skills",
+    "projects",
+    "education",
+    "awards"
+  ]
+}

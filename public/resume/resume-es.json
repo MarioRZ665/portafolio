@@ -1,0 +1,128 @@
+{
+  "selectedTemplate": 3,
+  "headings": {
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "work": "Experiencia Laboral"
+  },
+  "basics": {
+    "email": "kelvinsanchez15@gmail.com",
+    "phone": "",
+    "name": "Kelvin Sánchez",
+    "location": {
+      "address": "Spring, Texas"
+    },
+    "website": "www.kelvinsanchez15.com"
+  },
+  "work": [
+    {
+      "company": "Xepelin",
+      "position": "Desarrollador Front-end",
+      "location": "Santiago, Chile",
+      "startDate": "Oct 2021",
+      "endDate": "Presente",
+      "highlights": [
+        "Construí un nuevo flujo de onboarding, mejorando un 33% los usuarios autoenrolados",
+        "Desarrollé componentes de alto impacto de negocio, como el widget de Linea de Crédito y una barra de navegación escalable",
+        "Fuí pionero en la implementación de Typescript y pruebas unitarias, mejorando los niveles de confianza en la aplicación"
+      ]
+    },
+    {
+      "company": "alacartadigital",
+      "position": "Desarrollador Full Stack",
+      "location": "Madrid, España",
+      "startDate": "Abr 2021",
+      "endDate": "Sep 2022",
+      "highlights": [
+        "Implementé funcionalidades para suscripciones anuales y múltiples restaurantes, aumentando los ingresos de la empresa en un 40%",
+        "Optimicé las métricas Lighthouse en 98, logrando una experiencia de usuario más fluida y mejoras significativas en el SEO de la aplicación",
+        "Responsable de compilar, mantener, y desplegar la plataforma utilizando Next.js, Redux y Firebase como stack de tecnología principal"
+      ]
+    },
+    {
+      "position": "Desarrollador Front-end",
+      "website": "",
+      "startDate": "Ene 2019",
+      "endDate": "Dic 2020",
+      "highlights": [
+        "Encargado de mejorar el sitio web y mantener el sistema de diseño",
+        "Optimicé la aplicación para lograr máxima velocidad y escalabilidad",
+        "Creé funcionalidades para mejorar la experiencia del usuario"
+      ],
+      "company": "PETUCA",
+      "location": "Ciudad Bolívar, Venezuela"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Redux"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Node.js", "Express.js", "Cloud Functions"],
+      "name": "Backend"
+    },
+    {
+      "keywords": ["PostgreSQL", "MongoDB", "Firebase"],
+      "name": "Bases de datos"
+    },
+    {
+      "keywords": ["Tailwind CSS", "Material UI", "Bootstrap"],
+      "name": "Frameworks de CSS"
+    },
+    {
+      "keywords": ["Jest", "Cypress"],
+      "name": "Testing"
+    },
+    {
+      "keywords": ["Git", "Figma", "Postman"],
+      "name": "Otras"
+    }
+  ],
+  "projects": [
+    {
+      "description": "Rastreador de problemas (Issue Tracker) inspirado en Github Issues.",
+      "url": "https://issueless.vercel.app/",
+      "keywords": ["React", "Next.js", "PostgreSQL", "Prisma", "Material UI"],
+      "name": "Issueless"
+    },
+    {
+      "keywords": ["Tailwind CSS", "TypeScript", "React", "Next.js"],
+      "name": "Easybank",
+      "description": "Página de producto SAAS completamente responsiva diseñada con Tailwind CSS.",
+      "url": "https://easybank-web.vercel.app/"
+    },
+    {
+      "keywords": ["React", "Next.js", "MongoDB", "Material UI", "SWR"],
+      "name": "A-Note",
+      "description": "Una aplicación JAMStack que permite tomar notas de forma simple, rápida e intuitiva.",
+      "url": "https://a-note.vercel.app/"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "skills",
+    "projects",
+    "education",
+    "awards"
+  ]
+}
